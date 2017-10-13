@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nespera</title>
-    <link>http://nespera.org/</link>
-    <description>Recent content on nespera</description>
+    <title>Posts on nespera</title>
+    <link>http://nespera.org/posts/</link>
+    <description>Recent content in Posts on nespera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Oct 2017 13:56:47 +0100</lastBuildDate>
     
-	<atom:link href="http://nespera.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nespera.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
