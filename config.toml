@@ -1,0 +1,5 @@
+baseURL = "http://nespera.org/"
+languageCode = "en-us"
+title = "nespera"
+theme = "black-light"
+publishDir = "docs"
