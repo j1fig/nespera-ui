@@ -1,7 +1,6 @@
 ---
 title: "NaaS"
 date: 2017-10-13T13:56:47+01:00
-draft: true
 ---
 
 ## NaaS
