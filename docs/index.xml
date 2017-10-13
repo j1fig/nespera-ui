@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nespera</title>
-    <link>http://nespera.org/</link>
+    <link>http://news.nespera.org/</link>
     <description>Recent content on nespera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Oct 2017 13:56:47 +0100</lastBuildDate>
     
-	<atom:link href="http://nespera.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://news.nespera.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NaaS</title>
-      <link>http://nespera.org/posts/naas/</link>
+      <link>http://news.nespera.org/posts/naas/</link>
       <pubDate>Fri, 13 Oct 2017 13:56:47 +0100</pubDate>
       
-      <guid>http://nespera.org/posts/naas/</guid>
+      <guid>http://news.nespera.org/posts/naas/</guid>
       <description>NaaS The NaaS (News-as-a-Service) work has begun!
 Also this is kind of useful to see a first post come up on the website.
 Joao</description>

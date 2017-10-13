@@ -1,4 +1,4 @@
-baseURL = "http://nespera.org/"
+baseURL = "http://news.nespera.org/"
 languageCode = "en-us"
 title = "nespera"
 theme = "black-light"
