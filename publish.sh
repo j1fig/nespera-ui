@@ -12,9 +12,9 @@ echo "Removing existing files"
 rm -rf docs/*
 
 echo "Generating site"
-hugo
+hugo > /dev/null
 
 echo "Publishing site"
-git add --all
-git commit -m "Publishing latest changes (publish.sh)"
-git push origin master
+git add --all > /dev/null
+git commit -m "Publishing latest changes (publish.sh)" > /dev/null
+git push origin master > /dev/null
