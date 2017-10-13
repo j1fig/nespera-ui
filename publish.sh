@@ -17,4 +17,4 @@ hugo 2>&1 >/dev/null
 echo "Publishing site"
 git add --all 2>&1 >/dev/null
 git commit -m "Publishing latest changes (publish.sh)" 2>&1 >/dev/null
-git push origin master 2>&1 >/dev/null
+git push -q origin master 2>&1 >/dev/null
